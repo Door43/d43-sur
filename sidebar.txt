@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sur:home|Door43 (sur)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sur|d43-sur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sur/archive/master.zip|d43-sur.zip]]
+
+**Recent Changes**
+{{changes>ns = sur}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sur|Ethnologue data]]
+
